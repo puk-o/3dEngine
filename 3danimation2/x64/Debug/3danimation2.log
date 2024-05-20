@@ -1,0 +1,20 @@
+﻿  3danimation2.cpp
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\olcConsoleGameEngine.h(759,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '3danimation2.cpp')
+  
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\olcConsoleGameEngine.h(1099,31): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file '3danimation2.cpp')
+  
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\olcConsoleGameEngine.h(1196,4): warning C4312: 'type cast': conversion from 'DWORD' to 'olcConsoleGameEngine *' of greater size
+  (compiling source file '3danimation2.cpp')
+  
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(106,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(107,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(108,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(153,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(153,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(152,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(152,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(151,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Nutzer\source\repos\3danimation2\3danimation2\3danimation2.cpp(151,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  3danimation2.vcxproj -> C:\Users\Nutzer\source\repos\3danimation2\x64\Debug\3danimation2.exe
